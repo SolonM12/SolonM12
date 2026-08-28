@@ -4,7 +4,7 @@
   <a href=ttps://github-stats-extended.vercel.app/api?username=solonm12">
   <img height="200cm" src="https://github-stats-extended.vercel.app/api?username=solonm12&hide_title=false&custom_title=%20Soloncy's%20Stats&show_icons=true&include_all_commits=true&theme=github_dark"/>
   </a>
-  <img height="200cm" width="500cm" src="https://github-stats-extended.vercel.app/api/top-langs?username=solonm12&layout=donut&langs_count=5&theme=github_dark"/>
+  <img height="200cm" src="https://github-stats-extended.vercel.app/api/top-langs?username=solonm12&layout=donut&langs_count=5&theme=github_dark"/>
 </div>
 <!--
 **SolonM12/SolonM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
