@@ -1,5 +1,4 @@
 <h1>< Bem vindo ao meu GitHub 👾​ /></h1>
-<h3>Sou dev fullstack em  formação, e essa é a vitrine de laboratório onde eu mostro minhas ideias para o mundo.</h3>
 <div margin="500px">
   <a href=ttps://github-stats-extended.vercel.app/api?username=solonm12">
   <img height="200cm" src="https://github-stats-extended.vercel.app/api?username=solonm12&hide_title=false&custom_title=%20Soloncy's%20Stats&show_icons=true&include_all_commits=true&theme=github_dark"/>
