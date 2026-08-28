@@ -1,10 +1,14 @@
-## Hi there 👋
-
-<h1>Olá Esse é um teste<h1/>
-
+<h1>< Bem vindo ao meu GitHub 👾​ /></h1>
+<h3>Sou dev fullstack em  formação, e essa é a vitrine de laboratório onde eu mostro minhas ideias para o mundo.</h3>
+<div margin="500px">
+  <a href=ttps://github-stats-extended.vercel.app/api?username=solonm12">
+  <img height="200cm" src="https://github-stats-extended.vercel.app/api?username=solonm12&hide_title=false&custom_title=%20Soloncy's%20Stats&show_icons=true&include_all_commits=true&theme=github_dark"/>
+  </a>
+  <img height="200cm" width="500cm" src="https://github-stats-extended.vercel.app/api/top-langs?username=solonm12&layout=donut&langs_count=5&theme=github_dark"/>
+</div>
 <!--
 **SolonM12/SolonM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ Aqui tá o link do repositorio do github Stats: https://github.com/stats-organization/github-stats-extended?tab=readme-ov-file
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
