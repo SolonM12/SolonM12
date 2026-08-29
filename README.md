@@ -1,10 +1,25 @@
 <h1>< Bem vindo ao meu GitHub 👾​ /></h1>
 <div margin="500px">
   <a href=ttps://github-stats-extended.vercel.app/api?username=solonm12">
-  <img height="200cm" src="https://github-stats-extended.vercel.app/api?username=solonm12&hide_title=false&custom_title=%20Soloncy's%20Stats&show_icons=true&include_all_commits=true&theme=github_dark"/>
+  <img height="200cm" src="https://github-stats-extended.vercel.app/api?username=solonm12&rank_icon=github&hide_title=false&custom_title=%20Soloncy's%20Stats&show_icons=true&include_all_commits=true&theme=github_dark"/>
   </a>
   <img height="200cm" src="https://github-stats-extended.vercel.app/api/top-langs?username=solonm12&layout=donut&langs_count=5&theme=github_dark"/>
 </div>
+<hr/>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/soloncy-moura-51919a262/">
+      <img height="50cm" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png"/>
+    </a>
+    <a href="https://instagram.com/soloncym12">
+      <img height="50cm" src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png"/>
+    </a>
+    <a href="mailto:soloncym12@gmail.com">
+      <img height="50cm" src="https://img.icons8.com/?size=96&id=qyRpAggnV0zH&format=png"/>
+    </a>
+  </div>
+  
+  <i class="devicon-typescript-plain"></i>
+          
 <!--
 **SolonM12/SolonM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  Aqui tá o link do repositorio do github Stats: https://github.com/stats-organization/github-stats-extended?tab=readme-ov-file
