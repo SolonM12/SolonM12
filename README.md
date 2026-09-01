@@ -7,13 +7,13 @@
 </div>
 <hr/>
   <div align="center">
-    <a href="https://www.linkedin.com/in/soloncy-moura-51919a262/">
+    <a href="https://www.linkedin.com/in/soloncy-moura-51919a262/" target="_blank">
       <img height="50cm" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png"/>
     </a>
-    <a href="https://instagram.com/soloncym12">
+    <a href="https://instagram.com/soloncym12" target="_blank">
       <img height="50cm" src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png"/>
     </a>
-    <a href="mailto:soloncym12@gmail.com">
+    <a href="mailto:soloncym12@gmail.com" target="_blank">
       <img height="50cm" src="https://img.icons8.com/?size=96&id=qyRpAggnV0zH&format=png"/>
     </a>
   </div>
